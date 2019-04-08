@@ -3,6 +3,8 @@ layout: post
 title: Hello, world!
 ---
 
-This is a test post.
+Это первый пост на "движке" jekyll.
+Пока просто тестовый.
+
 
 ![](https://i.imgur.com/DbN1EzV.jpg)
