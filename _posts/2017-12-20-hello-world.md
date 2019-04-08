@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello, world!
+title: Первый пост!
 ---
 
 Это первый пост на "движке" jekyll.
