@@ -1,1 +1,0 @@
-# wegazz.github.io
